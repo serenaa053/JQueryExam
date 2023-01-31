@@ -39,13 +39,13 @@
 </head>
 <body>
 	<ul>
-		<li id="java">JAVA</li>
+		<li id="java">JAVA2</li>
 		<li> WEB </li>
 		<ul>
-			<li id="jsp">JSP</li>
+			<li id="jsp">JSP2</li>
 			<ul>
-				<li class ="bg">EL</li>
-				<li class ="bg">JSTL</li>
+				<li class ="bg">EL2</li>
+				<li class ="bg">JSTL2</li>
 			</ul>
 			<li>SPRING</li>
 		</ul>
